@@ -1,0 +1,7 @@
+*.pyo
+*.pyc
+.venv
+.buildozer
+bin
+.vscode
+/temp/
