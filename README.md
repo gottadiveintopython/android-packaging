@@ -10,7 +10,7 @@
 
 ### 2. 見積もり
 
-[E-mail](mailto:flow4re2c@gmail.com)か[Discord](https://discord.gg/B3qTkhP)にて必要な情報を送ってください。最低限必要なのは以下です。
+[E-mail](mailto:flow4re2c@gmail.com)か~~Discord~~にて必要な情報を送ってください。最低限必要なのは以下です。
 
 - source codeへのlink(どのような形でも良いですがgithubやgitlab上のrepositoryだと助かります)
 - もしproject内のfileに`buildozer.spec`が含まれていないのなら、packagingに最低限必要な以下の二つ
